@@ -1,0 +1,31 @@
+body{
+	background-color: lightgrey;
+	margin: 0;
+}
+
+p {
+	font-size: 20px;
+	font-family: sans-serif;
+
+
+}
+
+hr {
+	border-radius: 6px;
+	border-width: 5px;
+	border-color: black;
+}
+
+.design {
+	border-radius: 6px;
+	
+	 
+	margin-top: 15px;
+
+}
+
+th{
+	color: white;
+	background-color: blue;
+
+}
